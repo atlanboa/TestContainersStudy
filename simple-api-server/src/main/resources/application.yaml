@@ -1,2 +1,5 @@
 server:
   port: 8889
+
+akmj:
+  name: ${AUTHOR_NAME:"akmj"}
